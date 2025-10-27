@@ -1,16 +1,31 @@
-# React + Vite
+# 🌟 My Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio repository!  
+This project highlights my web development journey, showcasing projects I’ve built using modern technologies like **React**, **Express**, **Node**, **Database**, and **TailwindCSS**. Now, my curiosity led me to explore cloud computing. I combine both skills to create efficient, scalable, and secure solutions..
 
-Currently, two official plugins are available:
+## 🧩 About Me
+- 💻 Passionate Frontend Developer
+- ☁️ AWS Cloud Practitioner Certified
+- 🌱 Currently learning **Next.js** and **TypeScript**
+- 🎯 Goal: Build scalable and visually appealing web apps
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS
+- **Backend:** Node, Express, MongoDB, REST Api 
+- **Tools:** Git, GitHub, VS Code, Vite
+- **Cloud Basics:** AWS EC2, S3, Lambda, IAM
+- **DevOps:** Azure, Terraform, Github Actoins, Docker, Kubernetes, Bash 
 
-## React Compiler
+## 📂 Projects Included
+- **Portfolio Website:** Built with React & TailwindCSS, deployed on Vercel  
+- **Todo App:** Simple task manager with localStorage persistence  
+- **Weather App:** Real-time data using OpenWeather API
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📬 Contact
+- 📧 Email: [rajgoud242@gmail.com]  
+- 🌐 Portfolio: [https://rajgoud-portfolio.vercel.app/]  
+- 🐙 GitHub: [https://github.com/raj-goud830]  
+- 💼 LinkedIn: [linkedin.com/in/yourusername]
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+⭐ If you like my projects, don’t forget to star this repo!
